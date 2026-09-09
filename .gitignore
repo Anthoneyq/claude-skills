@@ -1,0 +1,9 @@
+# Only the two published skills are tracked. Everything else stays local.
+*
+!.gitignore
+!README.md
+!algorithm/
+!algorithm/**
+!build/
+!build/**
+.DS_Store
